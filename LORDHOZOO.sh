@@ -90,19 +90,6 @@ pkg install ruby -y
 pkg install lolcat -y
 pkg install termux-api
 pip install numpy pandas matplotlib seaborn requests beautifulsoup4 scrapy flask django fastapi sqlalchemy pytest
-pip install jupyterlab scikit-learn tensorflow keras torch opencv-python nltk spacy xgboost lightgbm
-pip install scapy pwntools impacket requests bs4 paramiko nmap pycryptodome
-pip install selenium playwright pyautogui schedule bs4 scrapy
-pip install requests pycurl scapy dnspython
-pip install tqdm rich pyfiglet colorama python-dotenv pillow
-pip install termux-api
-pip list --outdated | cut -d ' ' -f 1 | xargs -n1 pip install -U
-pkg update && pkg upgrade
-pkg install python
-pip install requests bs4 numpy pandas termux-api scapy
-python -m venv myenv
-source myenv/bin/activate  # Linux/macOS
-.\myenv\Scripts\activate   # Windows
 pkg update && pkg upgrade -y
 pkg install nodejs -y
 node --version
