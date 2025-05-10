@@ -3,8 +3,8 @@ const { exec } = require('child_process');
 const sqlite3 = require('sqlite3').verbose();
 const { DateTime, Duration } = require('luxon');
 
-const BOT_TOKEN = "7901822583:AAE5HS_OwFcRf6iMUHNfQK9zkP_cIwb7TxM";
-const ADMIN_ID = "6471584924";
+const BOT_TOKEN = "";
+const ADMIN_ID = "";
 const START_PY_PATH = "/workspaces/MHDDoS/start.py";
 
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
