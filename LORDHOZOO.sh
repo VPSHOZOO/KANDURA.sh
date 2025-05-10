@@ -102,17 +102,7 @@ pkg install termux-api
 clear
 pkg install nodejs -y
 clear
-
-clear
-gem install termux-api -y
-clear
-gem update
-clear
-echo "require 'sinatra'; get('/') { 'Hello Termux!' }" > app.rb
-clear
-
-clear
-pkg install metasploit -y
+termux-setup-storage -y
 clear
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
