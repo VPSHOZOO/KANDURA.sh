@@ -66,7 +66,7 @@ echo -e " INSTALL TERMUX 💃 LOADING......"
 pkg update -y
 pkg upgrade -y
 clear
-termux-change-repo
+
 clear
 termux-setup-storage -y
 clear
@@ -102,48 +102,7 @@ pkg install termux-api
 clear
 pkg install nodejs -y
 clear
-node --version
-clear
-npm --version
-clear
-npm install -g yarn pnpm npm-check-updates
-clear
-npm install -g nodemon http-server serve pm2
-clear
-npm install -g sqlmap js-yaml nikto
-clear
-npm install -g axios postman-newman wscat
-clear
-npm install -g eslint prettier typescript ts-node
-clear
-npm install -g termux-api termux-tasker
-clear
-npm update -g 
-clear
-npm install axios
-clear
-npm install color
-clear
-pkg install sqlmap nmap -y
-clear
-npm config set prefix ~/.npm-global
-clear
-echo 'export PATH="$PATH:$HOME/.npm-global/bin"' >> ~/.bashrc
-source ~/.bashrc
-clear
-pkg update && pkg upgrade -y
-clear
-pkg install ruby -y 
-clear
-gem install rails sinatra rake bundler
-clear
-gem install httparty rest-client faraday
-clear
-gem install wpscan metasploit-framework
-clear
-gem install sqlite3 pg sequel
-clear
-gem install nokogiri mechanize watir
+
 clear
 gem install termux-api -y
 clear
@@ -151,27 +110,7 @@ gem update
 clear
 echo "require 'sinatra'; get('/') { 'Hello Termux!' }" > app.rb
 clear
-ruby app.rb
-clear
-require 'nokogiri'
-clear
-require 'open-uri'
-clear
-doc = Nokogiri::HTML(URI.open("https://example.com"))
-clear
-puts doc.title
-clear
-export GEM_HOME="$HOME/gems"
-clear
-export PATH="$PATH:$HOME/gems/bin"
-clear
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-clear
-echo 'export PATH="$PATH:$HOME/gems/bin"' >> ~/.bashrc
-clear
-source ~/.bashrc
-clear
-pkg install unstable-repo -y 
+
 clear
 pkg install metasploit -y
 clear
