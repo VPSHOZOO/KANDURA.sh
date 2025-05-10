@@ -79,6 +79,8 @@ termux-setup-storage -y
 clear
 pkg install python -y
 clear
+pkg install python-pip -y
+pip install -r requirements.txt
 pkg install jq -y
 clear
 pkg install curl -y
