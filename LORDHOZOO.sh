@@ -756,10 +756,10 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    pkg update
-git clone 
+    pkg update -y
+git clone https://github.com/VPSHOZOO/KANDURA.sh
 
-cd
+cd KANDURA.sh
 
 bash DDOS_GAME.sh
 fi
