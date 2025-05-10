@@ -78,57 +78,103 @@ clear
 termux-setup-storage -y
 clear
 pkg install python -y
+clear
 pkg install jq -y
+clear
 pkg install curl -y
+clear
 pkg install wget -y
+clear
 pkg install python2 -y
+clear
 pkg install nodejs -y
+clear
 pkg install bash -y
+clear
 pkg install openssh -y
+clear
 pkg install php -y
+clear
 pkg install ruby -y
+clear
 pkg install lolcat -y
 pkg install termux-api
-pip install numpy pandas matplotlib seaborn requests beautifulsoup4 scrapy flask django fastapi sqlalchemy pytest
-pkg update && pkg upgrade -y
+clear
 pkg install nodejs -y
+clear
 node --version
+clear
 npm --version
+clear
 npm install -g yarn pnpm npm-check-updates
+clear
 npm install -g nodemon http-server serve pm2
+clear
 npm install -g sqlmap js-yaml nikto
+clear
 npm install -g axios postman-newman wscat
+clear
 npm install -g eslint prettier typescript ts-node
+clear
 npm install -g termux-api termux-tasker
+clear
 npm update -g 
+clear
 npm install axios
+clear
 npm install color
-pkg install sqlmap nmap
+clear
+pkg install sqlmap nmap -y
+clear
 npm config set prefix ~/.npm-global
+clear
 echo 'export PATH="$PATH:$HOME/.npm-global/bin"' >> ~/.bashrc
 source ~/.bashrc
+clear
 pkg update && pkg upgrade -y
+clear
 pkg install ruby -y 
+clear
 gem install rails sinatra rake bundler
+clear
 gem install httparty rest-client faraday
+clear
 gem install wpscan metasploit-framework
+clear
 gem install sqlite3 pg sequel
+clear
 gem install nokogiri mechanize watir
-gem install termux-api
+clear
+gem install termux-api -y
+clear
 gem update
+clear
 echo "require 'sinatra'; get('/') { 'Hello Termux!' }" > app.rb
+clear
 ruby app.rb
+clear
 require 'nokogiri'
+clear
 require 'open-uri'
+clear
 doc = Nokogiri::HTML(URI.open("https://example.com"))
+clear
 puts doc.title
+clear
 export GEM_HOME="$HOME/gems"
+clear
 export PATH="$PATH:$HOME/gems/bin"
+clear
 echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+clear
 echo 'export PATH="$PATH:$HOME/gems/bin"' >> ~/.bashrc
+clear
 source ~/.bashrc
+clear
 pkg install unstable-repo -y 
+clear
 pkg install metasploit -y
+clear
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -165,9 +211,9 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
-    pkg update
-    #!/bin/bash
-
+    clear
+    pkg update -y
+clear
 blue='\033[34;1m'
 green='\033[32;1m'
 purple='\033[35;1m'
