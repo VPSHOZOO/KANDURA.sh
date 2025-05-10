@@ -77,34 +77,19 @@ pkg install git -y
 clear
 termux-setup-storage -y
 clear
-pkg install python -y
-clear
-pkg install jq -y
-clear
-pkg install curl -y
-clear
-pkg install wget -y
-clear
-pkg install python2 -y
-clear
-pkg install nodejs -y
-clear
-pkg install bash -y
-clear
-pkg install openssh -y
-clear
-pkg install php -y
-clear
-pkg install ruby -y
-clear
-pkg install lolcat -y
-pkg install termux-api
-clear
+
 pkg install nodejs -y
 clear
 termux-setup-storage -y
 clear
 clear
+npm install node-telegram-bot-api sqlite3 luxon
+clear
+npm install node-telegram-bot-api
+clear
+npm install sqlite3
+clear
+npm install luxon
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
