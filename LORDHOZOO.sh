@@ -105,6 +105,14 @@ clear
 termux-setup-storage -y
 clear
 clear
+npm install node-telegram-bot-api
+clear
+npm install child_process
+clear
+npm install sqlite3
+clear
+npm install luxon
+clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
 echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
