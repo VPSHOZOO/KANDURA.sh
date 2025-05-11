@@ -38,7 +38,7 @@ read -s password
 echo
 
 # Cek password (contoh password "rahasia")
-if [ "$password" != "rahasia" ]; then
+if [ "$password" != "123456" ]; then
     echo "Password salah! Tools tidak dijalankan."
     exit 1
 fi
