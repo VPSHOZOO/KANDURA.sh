@@ -7,6 +7,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 clear
+mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
 mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 function loading_animation() {
     local pid=$1
@@ -53,6 +54,8 @@ fi
 loading_animation $!
 
 echo -e "\nTools berhasil dijalankan! 👰 Sukses"
+mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
+sleep 0.29
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -151,6 +154,7 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y 
     clear
@@ -181,6 +185,7 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
@@ -201,6 +206,7 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update
     clear
@@ -221,6 +227,7 @@ fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
@@ -245,6 +252,7 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
@@ -270,6 +278,7 @@ fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update
     clear
@@ -294,6 +303,7 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -321,6 +331,7 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
@@ -344,6 +355,7 @@ fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 apt update -y
     clear
@@ -366,6 +378,7 @@ fi
 
 if [ "$updt" -eq 10 ]; then
     # Add your code here for option 10
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
@@ -389,6 +402,7 @@ fi
 
 if [ "$updt" -eq 11 ]; then
     # Add your code here for option 11
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e "
@@ -403,6 +417,7 @@ fi
 
 if [ "$updt" -eq 12 ]; then
     # Add your code here for option 12
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update
     clear
@@ -421,6 +436,7 @@ fi
 
 if [ "$updt" -eq 13 ]; then
     # Add your code here for option 13
+    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e "
@@ -429,6 +445,7 @@ if [ "$updt" -eq 13 ]; then
 fi
 
 if [ "$updt" -eq 14 ]; then
+mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
     # Add your code here for option 14
     mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update
