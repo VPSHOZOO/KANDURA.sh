@@ -1,4 +1,4 @@
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -55,7 +55,7 @@ loading_animation $!
 echo -e "\nTools berhasil dijalankan! 👰 Sukses"
 sleep 0.28
 clear
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 clear
 
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -83,8 +83,8 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update -y 
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y 
     git clone https://github.com/4L13199/LITEDDOS
     cd LITEDDOS
     clear
@@ -94,7 +94,7 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     pkg update -y
     pkg update -y
     
@@ -107,8 +107,8 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update -y
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
     git clone https://github.com/VPSHOZOO/KANDURA.sh
 cd KANDURA.sh 
 node DDOS_GAME.js
@@ -116,13 +116,13 @@ fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     pkg update
-    pkg install git -y
+    apt install git -y
 
-pkg install python -y
+apt install python -y
 
-pkg install python3 -y
+apr install python3 -y
 
 git clone https://github.com/palahsu/DDoS-Ripper.git
 
@@ -132,7 +132,8 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
     git clone https://github.com/TrashDono/MegaMedusa
 cd MegaMedusa
 python3 nvminstall.py
@@ -141,8 +142,8 @@ fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update -y
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
     apt install tcpdump tshark -y
 
 git clone https://github.com/0vm/NetDeflect
@@ -155,8 +156,8 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
     #!/bin/bash
 
 # Author: Slax38
@@ -304,8 +305,8 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update -y
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
     git clone https://github.com/VPSHOZOO/KANDURA.sh
 pip install bs4
 clear
@@ -326,7 +327,7 @@ fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     
     rm -rf KANDURA.sh
