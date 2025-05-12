@@ -489,6 +489,13 @@ fi
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
     pkg update
+    rm -rf KANDURA.sh
+
+git clone https://github.com/VPSHOZOO/KANDURA.sh
+
+cd KANDURA.sh
+chmod 777 DDOS.sh
+bash DDOS.sh
 fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
