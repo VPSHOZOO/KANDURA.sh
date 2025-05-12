@@ -79,58 +79,7 @@ echo -e "│ $white TIKTOK   : LORDHOZOO                                        
 echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
 echo -e "└──────────────────────────────────────────────────────────────┘ $white"
 echo -e " INSTALL TERMUX 💃 LOADING......"
-apt update -y
-clear
-apt upgrade -y
-clear
-apt install mpv -y
-clear
-termux-setup-storage -y
-clear
-clear
-termux-setup-storage -y
-clear
-pkg install git -y
-clear
-termux-setup-storage -y
-clear
-apt install python -y
-clear
-apt install python-pip -y
-pip install -r requirements.txt
-apt install jq -y
-clear
-apt install curl -y
-clear
-apt install wget -y
-clear
-apt install python2 -y
-clear
-apt install nodejs -y
-clear
-apt install bash -y
-clear
-apt install openssh -y
-clear
-apt install php -y
-clear
-apt install ruby -y
-clear
-apt install lolcat -y
-apt install termux-api
-clear
-apt install nodejs -y
-clear
-termux-setup-storage -y
-clear
-clear
-npm install node-telegram-bot-api
-clear
-npm install child_process
-clear
-npm install sqlite3
-clear
-npm install luxon
+
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
