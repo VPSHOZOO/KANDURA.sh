@@ -7,18 +7,18 @@ const express = require('express');
 const fs = require('fs');
 const { exec } = require('child_process');
 
-const token = '7053749934:AAEsE8sT6bIDA_eEnndNdCBGi0EsFwKSDpY';
+const token = '7901822583:AAE5HS_OwFcRf6iMUHNfQK9zkP_cIwb7TxM';
 const bot = new TelegramBot(token, {polling: true});
-const adminId = '6853111656'; // ID admin, ganti dengan id kalian
+const adminId = '6471584924'; // ID admin, ganti dengan id kalian
 const premiumUserDB = './premiumUsers.json';
 
 bot.onText(/\/menu/, (msg) => {
   const chatId = msg.chat.id; 
   bot.sendMessage(chatId, "┌────────────────────┈ ⳹    \n" +
-  "│ ❐ -Nama Bot : *Elayns Botz*\n" +
-  "│ ❐ -Owner Bot : Deby\n" +
+  "│ ❐ -Nama Bot : *DDOS EXECUTOR LORDHOZOO*\n" +
+  "│ ❐ -Owner Bot : LORDHOZOO\n" +
   "│ ❐ -Versi Bot : 1.0.0 [Beta]\n" +
-  "│ ❐ -Creator/Developer Bot : [𝗗𝗘𝗕𝗬](t.me/DebyWangsaff)\n" +
+  "│ ❐ -Creator/Developer Bot : LORDHOZOO\n" +
   "└────────────────────┈ ⳹\n" +
   "┌──── 「 *MAIN MENU* 」\n" +
   "│ *❐ /start* - untuk memulai bot\n" +
@@ -29,19 +29,19 @@ bot.onText(/\/menu/, (msg) => {
   "│ *❐ /credit* - untuk melihat credit dari sc ini\n" +
   "└────────────────────┈ ⳹\n" +
   "┌──── 「 *MENU DDOS* 」\n" +
-"│ *❐ /ddos* - inti dari bot ini😹\n" +
-"│ *❐ /http* - untuk cek http web\n" +
-"│ *❐ /stop* - untuk menghentikan proses ddos\n" +
+"│ *❐ /ddos* - memulai attack 👰\n" +
+"│ *❐ /http* - untuk cek http web👰\n" +
+"│ *❐ /stop* - untuk menghentikan proses ddos👰\n" +
 "└────────────────────┈ ⳹\n" +
   "┌──── 「 *MENU ADMIN* 」\n" +
-  "│ *❐ /addprem* - untuk menambah pengguna premium\n" +
-  "│ *❐ /delprem* - untuk menghapus penggunaa premium\n" +
+  "│ *❐ /addprem* - untuk menambah pengguna premium 🛍️\n" +
+  "│ *❐ /delprem* - untuk menghapus penggunaa premium 🛍️\n" +
   "└────────────────────┈ ⳹\n",
     {
       reply_markup: {
         inline_keyboard: [
           [
-            { text: 'Info Script', url: 'https://youtube.com/@Deby_attckr' }
+            { text: 'Info Script', url: 'https://youtube.com/@LORDHOZOO' }
           ]
         ]
       },
