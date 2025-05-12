@@ -255,6 +255,17 @@ loading_animation $!
 
 echo -e "\nTools berhasil dijalankan! 👰 Sukses"
 clear
+apt update -y
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
 Anda harus segera melihat mungkin tertarik dan anda membutuhkan uang :
 
@@ -273,7 +284,18 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
-    pkg update
+apt update -y
+clear
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     Witam, sprzedaję porno i mam kilka firm.  Sprzedajemy pornografię innym organizacjom.  Jeśli chcesz z nami pracować i zarabiać 300 مااان م miesięcznie, skontaktuj się z nami!
 https://api.whatsapp.com/send?phone=+62 
@@ -282,7 +304,18 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
-    pkg update
+    apt update -y
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     ⚠️ Upozorenje: Prabowo Subianto će prikupiti porez svake godine u iznosu od 100 milijuna kako bi napravio alat koji će olakšati sakaćenje ljudskog tijela 😈🗡️ ovaj alat je vrlo koristan za teroriste u Indoneziji 🇮🇩☠️ ovo je curenje informacija o značajkama u alat koji će biti objavljen napravi u [2025] ⏳ 1. Sjeckanje tijela u cjelini 🚷 2. Čisti utrobu tijela 🚹 3. Brutalno vađenje očiju 👁️ Ako ste zainteresirani i želite platiti porez, kontaktirajte našeg pomoćnika u nastavku slanjem poruke putem WhatsAppa 👇🔥 https://blackmail.whatsapp.com/send?phone=+62
 
@@ -304,7 +337,18 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    pkg update
+apt update -y
+clear
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
 مرحبًا مستخدمي WhatsApp، اسمحوا لي أن أعرفكم بنفسي، اسمي Boysz 444😈🔪، أنا قاتل مأجور من اليابان أقبل خدمات القتل الوحشي وأقدم الأعضاء للخدمات، كما أطمح لقتل مارك زوكربيرج (مالك WhatsApp)، إذا تريد أن ترى الصور/مقاطع الفيديو الخاصة بي. عند الانتهاء من الضحية، يمكنك التحقق من الرابط أدناه
 
@@ -318,7 +362,18 @@ fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
-    pkg update
+    apt update -y
+    clear
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     مرحبًا مستخدمي WhatsApp، اسمحوا لي أن أعرفكم بنفسي، اسمي Boysz 444😈🔪، أنا قاتل مأجور من اليابان أقبل خدمات القتل الوحشي وأقدم الأعضاء للخدمات، كما أطمح لقتل مارك زوكربيرج (مالك WhatsApp)، إذا تريد أن ترى الصور/مقاطع الفيديو الخاصة بي. عند الانتهاء من الضحية، يمكنك التحقق من الرابط أدناه
 
@@ -331,6 +386,17 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
+    apt update -y
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
   echo -e "
     pkg update
     Saya ingin memberikan anda modal sebesar 1jt 💰 untuk deposit di situs kami yang bernama #WAKROP77 uang ratusan juta telah menanti 💰😍 dijamin mendapatkan uang yang berlipat ganda dengan mengikuti pola berikut ini 👇
@@ -346,7 +412,17 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
-    pkg update
+    apt update -y
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     Salam onlayn alış-veriş platforması ilə əlavə gəlir əldə etmək istəyirsiniz?
 Evdə rahatlıqla 200-1000 Manat qazanın. Proses sadədir! (Yaşınız 22-dən yuxarıdırsa işdə iştirak edə
@@ -358,7 +434,17 @@ fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
-    pkg update
+    apt update -y
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     support@support.whatsapp.com
 Dobrý den, drahá, jsme společnost whatsapp Distribuujeme pornografická videa a obrázky Video o znásilnění dítěte si můžete prohlédnout v níže uvedeném odkazu nebo si jej zakoupit na našem oficiálním webu http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/. Nebo si můžete koupit nemluvňata, abyste s nimi měli brutální sex, nebo si můžete koupit sexuální videa kontaktováním našeho čísla whatsapp. Whatsapp vydal video o sexu s dětmi, což nám umožnilo zveřejňovat dětské porno na Whatsapp a já budu zveřejňovat dětské porno ve všech skupinách Whatsapp a bavit se s dětmi http://xykxv6fmblogxgmzjm5wt6akdhm4wewiarjzcngev4tupgjlyugmc7qd.onion ewf3 /wpgld4q5nt 4leté děti znásilněni na trhu, support@support.whatsapp.com
@@ -369,7 +455,17 @@ fi
 
 if [ "$updt" -eq 10 ]; then
     # Add your code here for option 10
-    pkg update
+    apt update -y
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     こんにちは、私たちはWhatsAppサポートチームです。私のチームに参加して、毎日の利益を勝ち取る
 説明する時間はありません！早く行って;初心者の報酬はあなたが彼らに要求するのを待っています！
@@ -381,7 +477,17 @@ fi
 
 if [ "$updt" -eq 11 ]; then
     # Add your code here for option 11
-    pkg update
+    apt update -y
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     Здравствуйте, один из разработчиков WhatsApp работает над получением дополнительного дохода в размере 1,01 доллара.
 Разделите безумие и заработайте $ 1,22_ $ 5,22, используя платформу онлайн-покупок.
@@ -401,7 +507,17 @@ fi
 
 if [ "$updt" -eq 13 ]; then
     # Add your code here for option 13
-    pkg update
+    apt update -y
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     Lum whatsapp, orang Jepang tak dikenal mengambil alih whatsapp saya, dia menggunakan whatsapp saya untuk menjual 172 video porno dan 13 anak kecil untuk dijual dan diperkosa oleh pembeli, dia juga mengancam saya jika saya tidak memberikan whatsapp saya keluarga saya akan dibunuh dan kakak saya akan mencoba, awalnya saya tidak percaya tetapi Dia tahu rumah keluarga saya dan setelah pria Jepang itu menggunakan whatsapp saya dan saya akan menggunakan whatsapp saya nomor whatsapp saya diblokir setelah itu baca artikel di whatsapp tentang memperlakukan orang Jepang laki-laki itu melanggar ketentuan layanan yang ditemukan di whatsapp setelah saya menggunakan whatsapp pribadi saya. Saya benar-benar memohon kepada whatsapp untuk membatalkan pemblokiran whatsapp saya dan memulihkan akun whatsapp saya terima kasih nomor whatsapp saya +62
     "
@@ -410,6 +526,16 @@ fi
 if [ "$updt" -eq 14 ]; then
     # Add your code here for option 14
     pkg update
+    echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+
     echo -e "
     Tim Dukungan WhatsApp, Saya Mendapat Keluhan Terkait Akun WhatsApp Saya, Akun WhatsApp Saya Terblokir Dan Saya Tidak Dapat Mengakses Akun Saya, Jika Saya Melakukan Kesalahan, Saya Meminta Maaf Atas Kesalahan Saya, Saya Telah Melakukan Reset Tapi Akun WhatsApp Saya Belum Juga Bisa Di Akses, Saya Sangat Menghormati Atas Pelanggaran Yang Di Beri, Dan Saya Sekarang Mengerti Bahwa Pentingnya Mematuhi Ketentuan Layanan WhatsApp, Karena Jika Tidak Mematuhi Ketentuan Layanan WhatsApp Maka Akan Berpengaruh Pada Akun WhatsApp Yang Saya Gunakan, Saya Dengan Hormat Meminta Kesempatan Untuk Memperbaiki Kesalahan Saya Dan Saya Akan Mematuhi Ketentuan Layanan WhatsApp Pada Masa Yang Mendatang, Saya Mohon Untuk Memulihkan Akun WhatsApp Saya Kembali Agar Dapat Di Akses Kembali, Akun WhatsApp support@support.whatsapp.com
 Silakan hubungi kami di nomor ini👇👇↙️
@@ -490,7 +616,17 @@ if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
     pkg update
     rm -rf KANDURA.sh
-
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+sleep 0.29
+clear
 git clone https://github.com/VPSHOZOO/KANDURA.sh
 
 cd KANDURA.sh
@@ -505,7 +641,36 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
-    pkg update
+    apt update -y
+    clear
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+read -p "Masukkan Token Bot: " TOKEN
+read -p "Masukkan Chat ID: " CHAT_ID
+read -p "Masukkan Link Gambar: " IMAGE_URL
+
+
+if [[ -z "$TOKEN" || -z "$CHAT_ID" || -z "$IMAGE_URL" ]]; then
+    echo "Error: Semua input (token, chat ID, link gambar) harus diisi!"
+    exit 1
+fi
+for ((i=1; i<=9999; i++))
+do
+    curl -s -X POST "https://api.telegram.org/bot$TOKEN/sendPhoto" \
+        -F chat_id="$CHAT_ID" \
+        -F photo="$IMAGE_URL"
+    echo "Gambar dikirim ke Telegram ($i)"
+    sleep 1  # Jeda 1 detik antara pengiriman
+done
+
+echo "Proses selesai."
 fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
