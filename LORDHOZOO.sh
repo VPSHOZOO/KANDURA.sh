@@ -22,7 +22,7 @@ pkg install mpv -y
 clear
 apt install mpv -y
 clear
-mpv --no-video https://youtube.com/shorts/7JpPvtWs-dY?si=jpLteIJpNnspP8hm
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/PHONK.mp3  &>/dev/null &
 function loading_animation() {
     local pid=$1
     local delay=0.1
@@ -81,6 +81,7 @@ echo -e "└──────────────────────�
 echo -e " INSTALL TERMUX 💃 LOADING......"
 
 clear
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
 echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
@@ -117,7 +118,7 @@ read -p "╰─$" updt
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
     clear
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
 clear
 blue='\033[34;1m'
@@ -128,6 +129,8 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 clear
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
 echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
@@ -163,8 +166,8 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update -y 
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y 
     clear
     
     termux-setup-storage
@@ -223,7 +226,9 @@ fi
 loading_animation $!
 
 echo -e "\nTools berhasil dijalankan! 👰 Sukses"
+sleep 0.29
 clear
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 apt update -y
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -253,7 +258,7 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 apt update -y
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -274,7 +279,7 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -295,7 +300,8 @@ fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
     echo -e "
 您好 WhatsApp Business Messenger 2024 用户，您玩 WhatsApp@gmail.com 的体验如何我是中国最大的企业家之一，他创造了 WhatsApp，并获得了数百万至数十亿的奖金 🤑🤑💰
 你可以通过玩我自己公司的WhatsApp模组/创作来赚钱，当然它是官方的，不会被其他WhatsApp方屏蔽，因为它已经与20家公司合作🔥🔥🚫
@@ -308,7 +314,7 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
 apt update -y
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -334,7 +340,7 @@ fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -359,7 +365,7 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -385,7 +391,7 @@ support@support.whatsapp.com "
 fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 8
     apt update -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -409,7 +415,7 @@ fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -431,7 +437,7 @@ fi
 
 if [ "$updt" -eq 10 ]; then
     # Add your code here for option 10
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -454,7 +460,7 @@ fi
 
 if [ "$updt" -eq 11 ]; then
     # Add your code here for option 11
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -478,7 +484,7 @@ fi
 
 if [ "$updt" -eq 12 ]; then
     # Add your code here for option 12
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e "
     Hello, l would like to request an unban because l feel l have met the requirement to be released from restrictions . l promise to follow the rules and not commit any more violations. number +62thank you."
@@ -486,7 +492,7 @@ fi
 
 if [ "$updt" -eq 13 ]; then
     # Add your code here for option 13
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -505,7 +511,7 @@ fi
 
 if [ "$updt" -eq 14 ]; then
     # Add your code here for option 14
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update  -y
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -526,14 +532,14 @@ fi
 
 if [ "$updt" -eq 15 ]; then
     # Add your code here for option 15
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     pkg update -y
     echo -e "
     Olá querido WhatsApp, a conta do WhatsApp que utilizo foi mal utilizada por um irresponsável sem o meu conhecimento, então o número do WhatsApp que utilizo foi bloqueado, espero que possa ser restaurado como todo mundo. Obrigado +62 "
 fi
 
 if [ "$updt" -eq 16 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 16
     pkg update -y
     echo -e " helo WhatsApp nomor saya terblokir saya tidak ada salah pun tolong di aktifkan lagi nomor saya nomor +62 "
@@ -541,27 +547,27 @@ fi
 
 if [ "$updt" -eq 17 ]; then
     # Add your code here for option 17
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update 
     echo -e " Hello WhatsApp please reactivate my number it's blocked +62"
 fi
 
 if [ "$updt" -eq 18 ]; then
     # Add your code here for option 18
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y 
 fi
 
 if [ "$updt" -eq 19 ]; then
     # Add your code here for option 19
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " tolong penggunaan WhatsApp nomor saja di blokir di menonaktifkan tolong pulihkan kembali nomor saja saja janji tidak pake WhatsApp gb clone dengan janji saya dan saya pun salah tolong pulihkan kembali lagi nomor saya nomor saya +62 "
 fi
 
 if [ "$updt" -eq 20 ]; then
     # Add your code here for option 20
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     echo -e " aktifkan nomor saya terblokir +62 "
 fi
@@ -569,7 +575,8 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    clear
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -yv
     git clone https://github.com/VPSHOZOO/KANDURA.sh
 
@@ -581,20 +588,20 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     pkg update
     
 fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update
 fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
 git clone https://github.com/VPSHOZOO/KANDURA.sh
 
@@ -604,7 +611,7 @@ bash DDOS_GAME.sh
 fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 6
     apt update -y
     rm -rf KANDURA.sh
@@ -628,13 +635,13 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     pkg update
 fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     apt update -y
     clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -668,31 +675,31 @@ echo "Proses selesai."
 fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 9
-    pkg update
+    apt update -y
 fi
 
 if [ "$updt" -eq 10 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 10
-    pkg update
+apt update -y
 fi
 
 if [ "$updt" -eq 11 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 11
-    pkg update
+    apt update -y
 fi
 
 if [ "$updt" -eq 12 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 12
-    pkg update
+    apt update
 fi
 
 if [ "$updt" -eq 13 ]; then
-mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
     # Add your code here for option 13
     apt update -y
     clear
@@ -777,7 +784,7 @@ read -p "Pilih metode [1-4]: " choice
 case $choice in
     1)
         # WireGuard Method
-        mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
         echo -e "${YELLOW}Installing WireGuard...${NC}"
         pkg update -y && pkg install -y wget
         wget https://github.com/TunSafe/TunSafe/releases/download/v1.4/tunsafe-linux-arm64 -O tunsafe
@@ -790,7 +797,7 @@ case $choice in
         ;;
     2)
         # SSH Tunnel Method
-        mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
         echo -e "${YELLOW}Setting up SSH Tunnel...${NC}"
         pkg update -y && pkg install -y openssh
         read -p "Masukkan IP VPS Jepang: " vps_ip
@@ -804,7 +811,7 @@ case $choice in
         ;;
     3)
         # HTTP Proxy (Hoxy)
-        mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
         echo -e "${YELLOW}Installing Hoxy...${NC}"
         pkg update -y && pkg install -y python
         pip install hoxy
@@ -813,12 +820,12 @@ case $choice in
         ;;
     4)
         echo -e "${RED}Keluar...${NC}"
-        mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
         exit 0
         ;;
     *)
         echo -e "${RED}Pilihan tidak valid!${NC}"
-        mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+        mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
         exit 1
         ;;
 esac
@@ -826,42 +833,42 @@ fi
 
 if [ "$updt" -eq 14 ]; then
     # Add your code here for option 14
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
 fi
 
 if [ "$updt" -eq 15 ]; then
     # Add your code here for option 15
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update  -y
 fi
 
 if [ "$updt" -eq 16 ]; then
     # Add your code here for option 16
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update  -y
 fi
 
 if [ "$updt" -eq 17 ]; then
     # Add your code here for option 17
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
 fi
 
 if [ "$updt" -eq 18 ]; then
     # Add your code here for option 18
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update
 fi
 
 if [ "$updt" -eq 19 ]; then
     # Add your code here for option 19
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update 
 fi
 
 if [ "$updt" -eq 20 ]; then
     # Add your code here for option 20
-    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
-    pkg update
+    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    apt update -y
 fi
