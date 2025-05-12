@@ -196,7 +196,65 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
-    pkg update
+    pkg update -y 
+    clear
+    termux-setup-storage
+    clear
+    !/bin/bash
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+clear
+function loading_animation() {
+    local pid=$1
+    local delay=0.1
+    local spinstr='|/-\'
+    
+    echo -n "Memproses "
+    while [ "$(ps a | awk '{print $1}' | grep $pid)" ]; do
+        local temp=${spinstr#?}
+        printf " [%c]  " "$spinstr"
+        local spinstr=$temp${spinstr%"$temp"}
+        sleep $delay
+        printf "\b\b\b\b\b\b"
+    done
+    printf "    \b\b\b\b"
+}
+
+# Meminta password
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+echo -e "Masukkan Password untuk menjalankan tools: "
+read -s password
+echo
+
+# Cek password (contoh password "rahasia")
+if [ "$password" != "123456" ]; then
+    echo "Password salah! Tools tidak dijalankan."
+    exit 1
+fi
+
+# Proses yang membutuhkan loading
+(
+    # Simulasi proses yang memakan waktu
+    sleep 3
+) &
+
+loading_animation $!
+
+echo -e "\nTools berhasil dijalankan! 👰 Sukses"
+clear
     echo -e "
 Anda harus segera melihat mungkin tertarik dan anda membutuhkan uang :
 
@@ -410,6 +468,7 @@ fi
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
     pkg update
+    
 fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
@@ -464,7 +523,129 @@ fi
 
 if [ "$updt" -eq 13 ]; then
     # Add your code here for option 13
-    pkg update
+    pkg update -y
+    clear
+    termux-setup-storage -y
+    clear
+    #!/bin/bash
+# Colors
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+NC='\033[0m'
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+clear
+function loading_animation() {
+    local pid=$1
+    local delay=0.1
+    local spinstr='|/-\'
+    
+    echo -n "Memproses "
+    while [ "$(ps a | awk '{print $1}' | grep $pid)" ]; do
+        local temp=${spinstr#?}
+        printf " [%c]  " "$spinstr"
+        local spinstr=$temp${spinstr%"$temp"}
+        sleep $delay
+        printf "\b\b\b\b\b\b"
+    done
+    printf "    \b\b\b\b"
+}
+
+# Meminta password
+echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
+echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
+echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
+echo -e "│ $white AUTHOR   : LORDHOZOO                                        │"
+echo -e "│ $white DILIRIS  : 2025-10-10 MEI SABTU                             │"
+echo -e "│ $white YOUTUBE  : LORDHOZOO                                        │"
+echo -e "│ $white TIKTOK   : LORDHOZOO                                        │" 
+echo -e "│ $white STATUS   : $green ONLINE                                       $white   │ $white "
+echo -e "└──────────────────────────────────────────────────────────────┘ $white"
+echo -e "Masukkan Password untuk menjalankan tools: "
+read -s password
+echo
+
+# Cek password (contoh password "rahasia")
+if [ "$password" != "123456" ]; then
+    echo "Password salah! Tools tidak dijalankan."
+    exit 1
+fi
+
+# Proses yang membutuhkan loading
+(
+    # Simulasi proses yang memakan waktu
+    sleep 3
+) &
+
+loading_animation $!
+
+echo -e "\nTools berhasil dijalankan! 👰 Sukses"
+clear
+echo -e "${GREEN}"
+cat << "EOF"
+   ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
+   ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║
+   ██║███████║██████╔╝███████║██╔██╗ ██║
+██╗██║██╔══██║██╔═══╝ ██╔══██║██║╚██╗██║
+╚█████╔╝██║  ██║██║     ██║  ██║██║ ╚████║
+ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ BY  EXECUTOR LORDHOZOO
+EOF
+echo -e "${NC}"
+echo -e "${YELLOW}VPN Proxy Japan for Termux${NC}"
+echo -e "${GREEN}1. WireGuard (Fast)${NC}"
+echo -e "${GREEN}2. SSH Tunnel (Need VPS)${NC}"
+echo -e "${GREEN}3. HTTP Proxy (Hoxy)${NC}"
+echo -e "${RED}4. Exit${NC}"
+read -p "Pilih metode [1-4]: " choice
+case $choice in
+    1)
+        # WireGuard Method
+        echo -e "${YELLOW}Installing WireGuard...${NC}"
+        pkg update -y && pkg install -y wget
+        wget https://github.com/TunSafe/TunSafe/releases/download/v1.4/tunsafe-linux-arm64 -O tunsafe
+        chmod +x tunsafe
+        echo -e "${GREEN}Download WireGuard Japan config:${NC}"
+        read -p "Masukkan URL config WireGuard (.conf): " wg_url
+        wget -O japan.conf "$wg_url"
+        echo -e "${GREEN}Running VPN...${NC}"
+        ./tunsafe -c japan.conf
+        ;;
+    2)
+        # SSH Tunnel Method
+        echo -e "${YELLOW}Setting up SSH Tunnel...${NC}"
+        pkg update -y && pkg install -y openssh
+        read -p "Masukkan IP VPS Jepang: " vps_ip
+        read -p "Masukkan username VPS: " vps_user
+        read -p "Masukkan port SSH (default 22): " ssh_port
+        ssh_port=${ssh_port:-22}
+        ssh -D 8080 -fN "$vps_user@$vps_ip" -p "$ssh_port"
+        echo -e "${GREEN}Proxy SOCKS5 aktif di 127.0.0.1:8080${NC}"
+        echo "Gunakan perintah ini untuk set proxy:"
+        echo -e "${YELLOW}export ALL_PROXY=socks5://127.0.0.1:8080${NC}"
+        ;;
+    3)
+        # HTTP Proxy (Hoxy)
+        echo -e "${YELLOW}Installing Hoxy...${NC}"
+        pkg update -y && pkg install -y python
+        pip install hoxy
+        echo -e "${GREEN}Running Hoxy Proxy (Japan)...${NC}"
+        hoxy --country jp --type socks5
+        ;;
+    4)
+        echo -e "${RED}Keluar...${NC}"
+        exit 0
+        ;;
+    *)
+        echo -e "${RED}Pilihan tidak valid!${NC}"
+        exit 1
+        ;;
+esac
 fi
 
 if [ "$updt" -eq 14 ]; then
