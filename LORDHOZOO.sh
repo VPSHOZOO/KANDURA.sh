@@ -22,7 +22,7 @@ pkg install mpv -y
 clear
 apt install mpv -y
 clear
-mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
+mpv --no-video --volume=1000 PHONK.mp3 &
 
 function loading_animation() {
     local pid=$1
