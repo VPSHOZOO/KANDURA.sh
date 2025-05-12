@@ -7,8 +7,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 clear
-mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
 function loading_animation() {
     local pid=$1
     local delay=0.1
@@ -40,7 +39,7 @@ read -s password
 echo
 
 # Cek password (contoh password "rahasia")
-if [ "$password" != "rahasia" ]; then
+if [ "$password" != "123456" ]; then
     echo "Password salah! Tools tidak dijalankan."
     exit 1
 fi
@@ -54,7 +53,7 @@ fi
 loading_animation $!
 
 echo -e "\nTools berhasil dijalankan! 👰 Sukses"
-mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
+mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
 sleep 0.29
 clear
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -109,7 +108,7 @@ pkg install nodejs -y
 clear
 termux-setup-storage -y
 clear
-mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
 blue='\033[34;1m'
 green='\033[32;1m'
 purple='\033[35;1m'
@@ -118,7 +117,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 clear
-mpv --no-video --volume=1000 --no-terminal --quiet /HOME/PHONK.mp3  &>/dev/null &
+mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
 echo -e "\033[37;1m┌──────────────────────────────────────────────────────────────┐ $white"
@@ -154,8 +153,7 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y 
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -185,8 +183,7 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -206,8 +203,7 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -227,8 +223,7 @@ fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -252,8 +247,7 @@ fi
 
 if [ "$updt" -eq 5 ] || [ "$updt" -eq 05 ]; then
     # Add your code here for option 5
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -278,8 +272,7 @@ fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -303,8 +296,7 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -331,8 +323,7 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -355,8 +346,7 @@ fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
 apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -378,8 +368,7 @@ fi
 
 if [ "$updt" -eq 10 ]; then
     # Add your code here for option 10
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -402,8 +391,7 @@ fi
 
 if [ "$updt" -eq 11 ]; then
     # Add your code here for option 11
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     echo -e "
     Здравствуйте, один из разработчиков WhatsApp работает над получением дополнительного дохода в размере 1,01 доллара.
@@ -417,8 +405,7 @@ fi
 
 if [ "$updt" -eq 12 ]; then
     # Add your code here for option 12
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update
     clear
     echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
@@ -436,8 +423,7 @@ fi
 
 if [ "$updt" -eq 13 ]; then
     # Add your code here for option 13
-    mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     apt update -y
     echo -e "
     Lum whatsapp, orang Jepang tak dikenal mengambil alih whatsapp saya, dia menggunakan whatsapp saya untuk menjual 172 video porno dan 13 anak kecil untuk dijual dan diperkosa oleh pembeli, dia juga mengancam saya jika saya tidak memberikan whatsapp saya keluarga saya akan dibunuh dan kakak saya akan mencoba, awalnya saya tidak percaya tetapi Dia tahu rumah keluarga saya dan setelah pria Jepang itu menggunakan whatsapp saya dan saya akan menggunakan whatsapp saya nomor whatsapp saya diblokir setelah itu baca artikel di whatsapp tentang memperlakukan orang Jepang laki-laki itu melanggar ketentuan layanan yang ditemukan di whatsapp setelah saya menggunakan whatsapp pribadi saya. Saya benar-benar memohon kepada whatsapp untuk membatalkan pemblokiran whatsapp saya dan memulihkan akun whatsapp saya terima kasih nomor whatsapp saya +62
@@ -445,9 +431,9 @@ if [ "$updt" -eq 13 ]; then
 fi
 
 if [ "$updt" -eq 14 ]; then
-mpv --no-video --volume=1000 /HOME/PHONK.mp3 &
+mpv --no-video --volume=80 PHONK.mp3 &>/dev/null & disown
     # Add your code here for option 14
-    mpv --no-video --volume=1000 --no-terminal --quiet /HOME/sound_klik.mp3  &>/dev/null &
+    
     apt update
     echo -e "
     Tim Dukungan WhatsApp, Saya Mendapat Keluhan Terkait Akun WhatsApp Saya, Akun WhatsApp Saya Terblokir Dan Saya Tidak Dapat Mengakses Akun Saya, Jika Saya Melakukan Kesalahan, Saya Meminta Maaf Atas Kesalahan Saya, Saya Telah Melakukan Reset Tapi Akun WhatsApp Saya Belum Juga Bisa Di Akses, Saya Sangat Menghormati Atas Pelanggaran Yang Di Beri, Dan Saya Sekarang Mengerti Bahwa Pentingnya Mematuhi Ketentuan Layanan WhatsApp, Karena Jika Tidak Mematuhi Ketentuan Layanan WhatsApp Maka Akan Berpengaruh Pada Akun WhatsApp Yang Saya Gunakan, Saya Dengan Hormat Meminta Kesempatan Untuk Memperbaiki Kesalahan Saya Dan Saya Akan Mematuhi Ketentuan Layanan WhatsApp Pada Masa Yang Mendatang, Saya Mohon Untuk Memulihkan Akun WhatsApp Saya Kembali Agar Dapat Di Akses Kembali, Akun WhatsApp support@support.whatsapp.com
