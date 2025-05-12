@@ -1,3 +1,5 @@
+mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+clear
 blue='\033[34;1m'
 green='\033[32;1m'
 purple='\033[35;1m'
@@ -53,7 +55,8 @@ loading_animation $!
 echo -e "\nTools berhasil dijalankan! 👰 Sukses"
 sleep 0.28
 clear
-
+mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
+clear
 
 echo -e " \033[31;1m █░░ █▀█ █▀█ █▀▄ █░█ █▀█ ▀█ █▀█ █▀█"
 echo -e " \033[37;1m █▄▄ █▄█ █▀▄ █▄▀ █▀█ █▄█ █▄ █▄█ █▄█ \033[31;1m V 1.0.1 "
@@ -80,6 +83,7 @@ read -p "╰─$" updt
 # data
 if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
     # Add your code here for option 1
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update -y 
     git clone https://github.com/4L13199/LITEDDOS
     cd LITEDDOS
@@ -90,8 +94,10 @@ fi
 
 if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
     # Add your code here for option 2
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update -y
     pkg update -y
+    
 pkg install python3 python3-pip git -y
 git clone https://github.com/7zx/overload
 cd overload/
@@ -101,6 +107,7 @@ fi
 
 if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
     # Add your code here for option 3
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update -y
     git clone https://github.com/VPSHOZOO/KANDURA.sh
 cd KANDURA.sh 
@@ -109,6 +116,7 @@ fi
 
 if [ "$updt" -eq 4 ] || [ "$updt" -eq 04 ]; then
     # Add your code here for option 4
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update
     pkg install git -y
 
@@ -133,6 +141,7 @@ fi
 
 if [ "$updt" -eq 6 ] || [ "$updt" -eq 06 ]; then
     # Add your code here for option 6
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update -y
     apt install tcpdump tshark -y
 
@@ -146,6 +155,7 @@ fi
 
 if [ "$updt" -eq 7 ] || [ "$updt" -eq 07 ]; then
     # Add your code here for option 7
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update
     #!/bin/bash
 
@@ -294,6 +304,7 @@ fi
 
 if [ "$updt" -eq 8 ] || [ "$updt" -eq 08 ]; then
     # Add your code here for option 8
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     pkg update -y
     git clone https://github.com/VPSHOZOO/KANDURA.sh
 pip install bs4
@@ -315,6 +326,7 @@ fi
 
 if [ "$updt" -eq 9 ] || [ "$updt" -eq 09 ]; then
     # Add your code here for option 9
+    mpv --no-video https://youtu.be/IH8o6-hxomI?si=4fj-BB_dICc6RWAZ
     apt update -y
     
     rm -rf KANDURA.sh
