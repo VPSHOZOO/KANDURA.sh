@@ -68,3 +68,27 @@ echo -e "============================================"
 echo -e "==========================================="
 echo -e "= [03]. ENC BASH TERKUAT EMOJI 👁️👄👁️     ="
 echo -e "==========================================="
+echo -e "\033[39;1m╭─ROOT@LORDHOZOO@localhost /home"
+read -p "╰─$" updt
+# data
+if [ "$updt" -eq 1 ] || [ "$updt" -eq 01 ]; then
+    # Add your code here for option 1
+    clear
+    pkg update -y
+clear
+
+fi
+if [ "$updt" -eq 2 ] || [ "$updt" -eq 02 ]; then
+    # Add your code here for option 1
+    clear
+    pkg update -y
+clear
+
+fi
+if [ "$updt" -eq 3 ] || [ "$updt" -eq 03 ]; then
+    # Add your code here for option 1
+    clear
+    pkg update -y
+clear
+
+fi
